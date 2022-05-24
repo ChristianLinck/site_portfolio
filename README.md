@@ -1,2 +1,2 @@
-# site_portfolio
+# portfolio
 HTML / CSS project for portfolio.
