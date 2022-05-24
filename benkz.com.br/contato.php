@@ -22,7 +22,7 @@
 
 	<main>
 		<section class="talk">
-			<h2>Vamos conversar!</h2>
+			<h2>Vamos conversara!</h2>
 			<p>Porto Alegre - RS</p>
 			<p>christian.linck@hotmail.com</p>
 			<p>Tel: <a href="https://wa.me/+5551980500606" target="_blank"><i class="fa-brands fa-whatsapp fa-1x"></i>+55 51 9 8050 0606</a></p>
